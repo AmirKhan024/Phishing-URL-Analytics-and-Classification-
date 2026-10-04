@@ -1,0 +1,7 @@
+data/*.csv
+models/
+__pycache__/
+*.pyc
+.venv/
+venv/
+setup_project.py
